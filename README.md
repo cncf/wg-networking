@@ -13,3 +13,8 @@ Explore cloud native networking technology for a fit within CNCF.
 * Alexis Richardson (@monadic)
 * Jonathan Boulle (@jonboulle)
 * Lee Calcote (@lcalcote)
+* Madhu Venugopal
+* Jie Yu
+* Deepak Bansal
+* John Gossman
+* Christopher Liljenstolpe
