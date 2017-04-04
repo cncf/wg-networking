@@ -4,7 +4,9 @@ CNCF Networking WG
 
 ## Goals
 
-Explore cloud native networking technology for a fit within CNCF.
+Explore cloud native networking technology and concepts around container networking interface (CNI).
+
+See this google doc(https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj4VNjo79KkmFxm-_HisR3M/edit?usp=sharing) for more information
 
 ## Members
 
@@ -20,8 +22,5 @@ Explore cloud native networking technology for a fit within CNCF.
 * Christopher Liljenstolpe
 * Bryan Boreham (@bboreham)
 
-Kick-off Agenda
-1. Determine the focus of CNCF Networking WG. Inital thought is to adopt CNI first as an inital interface model (not only) and then projects that have an implication of CNI as well as other interface models after.
-2. Ensure we understand and have documented the "What" and "Why" of networking interface model(s)
-3. Focus on networking interfaces and primitives associated with cloud native patterns
+Initial meeting note here: (https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
 
