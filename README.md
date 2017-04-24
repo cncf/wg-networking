@@ -23,6 +23,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Bryan Boreham (@bboreham)
 * Minhan Xia (@freehan)
 * Daniel Nardo (@dnardo)
+* Pengfei Ni (@feiskyer)
 * John Belamaric (@johnbelamaric)
 * Thomas Graf (@tgraf__)
 
