@@ -28,12 +28,12 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Thomas Graf (@tgraf__)
 
 ## Meeting Minutes
-Initial meeting minutes (2017.04.04) [here](https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
-2017.04.11 [here](https://docs.google.com/document/d/1pe5uT_kYJE5zpIMIUE-g9l1ycRF9phOYTq4bcCcSXdw/edit?usp=sharing)
+
+* [2017.04.04](https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
+* [2017.04.11 ](https://docs.google.com/document/d/1pe5uT_kYJE5zpIMIUE-g9l1ycRF9phOYTq4bcCcSXdw/edit?usp=sharing)
+
 ## Meeting Times
 
-1. April 4th, 2017 at 11am CST
-1. April 11th, 2017 at 3pm CST
 1. April 26th, 2017 at 11am CST
 1. May 10th, 2017 at 11am CST
 1. May 23rd, 2017 at 11:30am CST
