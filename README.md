@@ -24,6 +24,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Minhan Xia (@freehan)
 * Daniel Nardo (@dnardo)
 * John Belamaric (@johnbelamaric)
+* Thomas Graf (@tgraf__)
 
 ## Meeting Minutes
 Initial meeting minutes (2017.04.04) [here](https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
