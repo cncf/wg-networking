@@ -26,7 +26,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Pengfei Ni (@feiskyer)
 * John Belamaric (@johnbelamaric)
 * Thomas Graf (@tgraf__)
-* Jason Venner @jvmirdel
+* Jason Venner (@jvmirdel)
 
 ## Meeting Minutes
 
