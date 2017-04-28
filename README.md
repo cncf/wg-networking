@@ -36,6 +36,8 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 
 ## Meeting Times
 
+* May 1st, 2017 at 4pm CST
+  * Topic: _CNCF and CNI Project Overview and proposal_ on [Hangout](https://plus.google.com/hangouts/_/calendar/a2VuY2hyaXN0aW5lb3dlbnNAZ21haWwuY29t.17hnl4inmofpbopu0t7q10k5j8)
 * May 10th, 2017 at 11am CST
   
 Join WebEx meeting   
