@@ -28,6 +28,11 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Thomas Graf (@tgraf__)
 * Jason Venner (@jvmirdel)
 
+## Outcomes
+
+* CNI presented to the TOC: https://goo.gl/TeOBzZ
+* CNI proposed and accepted as CNCF project: https://github.com/cncf/toc/pull/36
+
 ## Meeting Minutes
 
 * [2017.04.04](https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
@@ -43,12 +48,10 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 Join WebEx meeting   
 Meeting number: 205 719 569  
 Meeting password: PutZQwRU (78897978 from phones)  
-  
 
 Join from a video conferencing system or application
 Dial 205719569@cisco.webex.com  
-From the Cisco internal network, dial *267* and the 9-digit meeting number. If you are the host, enter your PIN when prompted.   
-  
+From the Cisco internal network, dial *267* and the 9-digit meeting number. If you are the host, enter your PIN when prompted. 
   
 If you are a host, go here to view host information.
 
