@@ -27,6 +27,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * John Belamaric (@johnbelamaric)
 * Thomas Graf (@tgraf__)
 * Jason Venner (@jvmirdel)
+* Doug Davis (@duglin)
 
 ## Outcomes
 
