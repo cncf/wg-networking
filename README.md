@@ -45,23 +45,27 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * May 1st, 2017 at 4pm CST
   * Topic: _CNCF and CNI Project Overview and proposal_ on [Hangout](https://plus.google.com/hangouts/_/calendar/a2VuY2hyaXN0aW5lb3dlbnNAZ21haWwuY29t.17hnl4inmofpbopu0t7q10k5j8)
 * May 10th, 2017 at 11am CST
+* June 6th, 2017 at 11am CST
   
+-- Do not delete or change any of the following text. --   
+    
 Join WebEx meeting   
-Meeting number: 205 719 569  
-Meeting password: PutZQwRU (78897978 from phones)  
+Meeting number: 207 267 510  
+Meeting password: ui9pqHgP (84977447 from phones)  
+  
 
 Join from a video conferencing system or application
-Dial 205719569@cisco.webex.com  
-From the Cisco internal network, dial *267* and the 9-digit meeting number. If you are the host, enter your PIN when prompted. 
+Dial 207267510@cisco.webex.com  
+From the Cisco internal network, dial *267* and the 9-digit meeting number. If you are the host, enter your PIN when prompted.   
+  
   
 If you are a host, go here to view host information.
 
 Join by phone  
 +1-408-525-6800 Call-in toll number (US/Canada)  
 +1-866-432-9903 Call-in toll-free number (US/Canada)  
-Access code: 205 719 569  
+Access code: 207 267 510  
+Global call-in numbers  |  Toll-free calling restrictions   
 
-* May 23rd, 2017 at 11:30am CST
-* June 6th, 2017 at 11am CST
 * June 20th, 2017 at 11am CST
 * July 5th, 2017 at 11am CST
