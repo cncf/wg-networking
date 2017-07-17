@@ -74,5 +74,5 @@ Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.co
 * June 20th, 2017 at 11am CST - Cancelled
 * July 5th, 2017 at 11am CDT - Agenda to include IPv6 and Weave
 * July 18th, 2017 at 11am CDT - Agenda to include Project Contiv, CNM
-* August 1st, 2017 at 11am CDT - Agenda to include Calico and Flannel
+* August 1st, 2017 at 11am CDT - Agenda to include Calico, Flannel, netlink contribution to CNI
 * August 15th, 2017 at 11am CDT
