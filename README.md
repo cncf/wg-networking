@@ -64,6 +64,7 @@ Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.co
 * [2017.04.26](https://docs.google.com/document/d/1g0urMfnlWcDeIqxWtxyEwhMbcjYz4tSvKeAhDCjNT-Q/edit?usp=sharing)
 * [2017.06.06](https://docs.google.com/document/d/11oqkQ2OM8120tstCjbwfZ-1RqKyKtVd7c2jCUfiKWfo/edit?usp=sharing)
 * [2017.07.05](https://www.youtube.com/watch?v=vc6gYiN69UM&feature=youtu.be)
+* [2017.07.18](https://zoom.us/recording/play/tPMy_6EwEcIR8sFY5tvgEhDre--aP7FtqGPUVb-SQD5cTeLb6dZiLYoVnwcK0Gl_)
 
 ## Meeting Schedule
 
