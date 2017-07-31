@@ -73,7 +73,10 @@ Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.co
 * May 10th, 2017 at 11am CST
 * June 6th, 2017 at 11am CST
 * June 20th, 2017 at 11am CST - Cancelled
-* July 5th, 2017 at 11am CDT - Agenda to include IPv6 and Weave
-* July 18th, 2017 at 11am CDT - Agenda to include Project Contiv, CNM
-* August 1st, 2017 at 11am CDT - Agenda to include Calico, Flannel, netlink contribution to CNI
-* August 15th, 2017 at 11am CDT
+* July 5th, 2017 at 11am CDT - Agenda: IPv6 and Weave
+* July 18th, 2017 at 11am CDT - Agenda: Project Contiv, CNM Overview
+* August 1st, 2017 at 11am CDT - Agenda: Calico, azure-container-networking 
+
+    SDN/network virtualization technologies have been a great enabler and are widely used for the VM based workloads in public and private clouds. With the growing popularity of containers, these technologies are being extended to containers. In this talk, I am going to talk about the challenges that must be addressed to extend SDN technologies to containers. In addition to the much larger scale and much stringent rate of provisioning requirements imposed by container workloads, container SDN must co-exist seamlessly with VM SDN as customers will have both container based and VM based deployments. This means seamless policy language across the container and VM SDN and virtual networks that span across both. I will then describe Azure Virtual Network (VNet) that provides SDN for VMs and is being extended seamlessly to support containers. It provides powerful capabilities such as network isolation, load balancer, internet connectivity, private access to resources and services in Azure, peering networks, on-premise connectivity, traffic filtering, user defined routes, network security policies. azure-container-networking project extends the richness of Azure VNet to container workloads managed by leading orchestrators: Docker, Kubernetes, Mesos DC/OS and Service Fabric. It has a rich API surface and modular architecture to create/manage/connect networks and provision SDN policies. It adopts prevalent network provisioning models (CNM, CNI) to integrate Azure VNet seamlessly with container orchestrators that conform to these standards. Azure container networking provides unified experience and capabilities across Windows and Linux platforms. It also brings the capability of Azure VNet to standalone clusters deployed outside public Azure cloud which provides a unified devops experience and makes transition to public cloud effortless. azure-container-networking is open source project on github that enables dev community to participate in its evolution and help build a rich eco system for container networking with Azure VNet.
+
+* August 15th, 2017 at 11am CDT: Agenda: Fannel, netlink contribution to CNI
