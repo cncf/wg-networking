@@ -19,7 +19,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Jie Yu
 * Deepak Bansal
 * John Gossman
-* Christopher Liljenstolpe
+* Christopher Liljenstolpe (@liljenstolpe)
 * Bryan Boreham (@bboreham)
 * Minhan Xia (@freehan)
 * Daniel Nardo (@dnardo)
@@ -36,19 +36,22 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 
 ## Meeting Time
 
-The Networking Working Group meets on the 1st and 3rd Tuesday of every month at 8AM PT (USA Pacific):
+The Networking Working Group meets on the 1st and 3rd Tuesday of every
+month at 9AM PT (USA Pacific):
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/175547218
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/999936723
 
-Or iPhone one-tap (US Toll):  +14086380968,,175547218# or +16465588656,,175547218#
+Or iPhone one-tap (US Toll):  +16465588656,,999936723# or
++14086380968,,999936723#
 
 Or Telephone:
-    Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656 (US Toll)
+    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
     +1 855 880 1246 (US Toll Free)
     +1 877 369 0926 (US Toll Free)
-    Meeting ID: 175 547 218
-    International numbers available: https://zoom.us/zoomconference?m=AnpIc8jE7z2vRW_i71ffOgGCBHWoLDlh
-    
+    Meeting ID: 999 936 723
+    International numbers available:
+https://zoom.us/zoomconference?m=LAcSq7c1MarVhxUbyYwATEGM_QvcVUy3
+
 NOTE: Please use *6 to mute/un-mute your phone during the call.
     
 **Next meeting has been moved to WEDNESDAY July 5th to accomodate for the US Holiday**
