@@ -36,8 +36,11 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 
 ## Meeting Time
 
-The Networking Working Group meets on the 1st and 3rd Tuesday of every
-month at 9AM PT (USA Pacific):
+The Networking Working Group meets every 2 weeks on Tue at 9AM PST:
+
+Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
+
+Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&
 
 Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/999936723
 
@@ -53,17 +56,12 @@ Or Telephone:
 https://zoom.us/zoomconference?m=LAcSq7c1MarVhxUbyYwATEGM_QvcVUy3
 
 NOTE: Please use *6 to mute/un-mute your phone during the call.
-    
-**Next meeting has been moved to WEDNESDAY July 5th to accomodate for the US Holiday**
-    
-Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
-Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&
 
 ## Meeting Minutes (or Recordings)
 
 * [2017.04.04](https://docs.google.com/document/d/1rtbk27edum429Q5sEM5IP5FIu2i3qm7naXhZxFFJWs4/edit#) 
-* [2017.04.11 ](https://docs.google.com/document/d/1pe5uT_kYJE5zpIMIUE-g9l1ycRF9phOYTq4bcCcSXdw/edit?usp=sharing)
+* [2017.04.11](https://docs.google.com/document/d/1pe5uT_kYJE5zpIMIUE-g9l1ycRF9phOYTq4bcCcSXdw/edit?usp=sharing)
 * [2017.04.26](https://docs.google.com/document/d/1g0urMfnlWcDeIqxWtxyEwhMbcjYz4tSvKeAhDCjNT-Q/edit?usp=sharing)
 * [2017.06.06](https://docs.google.com/document/d/11oqkQ2OM8120tstCjbwfZ-1RqKyKtVd7c2jCUfiKWfo/edit?usp=sharing)
 * [2017.07.05](https://www.youtube.com/watch?v=vc6gYiN69UM&feature=youtu.be)
