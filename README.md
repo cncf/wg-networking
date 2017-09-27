@@ -77,4 +77,6 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 * July 5th, 2017 at 11am CDT - Agenda: IPv6 and Weave
 * July 18th, 2017 at 11am CDT - Agenda: Project Contiv, CNM Overview
 * August 1st, 2017 at 11am CDT - Agenda: Calico, azure-container-networking 
-* August 15th, 2017 at 11am CDT: Agenda: Fannel, netlink contribution to CNI
+* August 15th, 2017 at 11am CDT - Agenda: Fannel, netlink contribution to CNI
+* October 10th, 2017 at 11am CDT - Agenda: FDio, OpenContrail, What CNI Implementations we want to take forward to TOC for adoption
+* October 24th, 2017 at 11am CDT - Agenda: Next Steps for workgroup - Services Layer, Modeling (CMN), IPv6...
