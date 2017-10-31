@@ -80,3 +80,4 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 * August 15th, 2017 at 11am CDT - Agenda: Fannel, netlink contribution to CNI
 * October 10th, 2017 at 11am CDT - Agenda: FDio, OpenContrail, What CNI Implementations we want to take forward to TOC for adoption
 * October 24th, 2017 at 11am CDT - Agenda: Next Steps for workgroup - Services Layer, Modeling (CMN), IPv6...
+* Nov 7, 2017 at 11am CDT - Agenda: fd.io and networking as a microservice
