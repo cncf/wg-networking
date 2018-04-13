@@ -4,7 +4,7 @@ CNCF Networking WG
 
 ## Goals
 
-Explore cloud native networking technology and concepts around container networking interface (CNI).
+Explore cloud native networking technology, concepts around the container networking interface (connectivity), network services, common design patterns and best practices.
 
 See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj4VNjo79KkmFxm-_HisR3M/edit?usp=sharing) for more information
 
