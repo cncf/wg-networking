@@ -82,3 +82,8 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 * October 24th, 2017 at 11am CDT - Agenda: Next Steps for workgroup - Services Layer, Modeling (CMN), IPv6...
 * Nov 7, 2017 at 11am CDT - Agenda: fd.io and networking as a microservice
 * January 16th, 2018 at 11am CDT - Agenda 2018 Goals for Workgroup, CNI Updates, and Open discussion around K8S Network Sig and CNCF Networking WG.
+* June 5th 2018 at 11am CDT - Agenda: Azure Policy Manager Discussion, Areas of interest to investigate for CNCF Network Community, Planning for topics
+* June 19th, 2018 at 11am CDT - Agenda: Weave Network presentation
+* July 3rd, 2018 - Cancelled
+* July 17th, 2018 at 11am CDT - Agenda: Network Policy and Service Mesh Discussion
+* July 31st, 2-18 @ 11am CDT - Agenda: IPv6, Service Chaining, Network Services (SLB, DNS)
