@@ -42,21 +42,19 @@ Here is a public Google calendar so you can add the meetings to your calendar: h
 
 Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/999936723
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/my/cncfnetworkingwg
 
-Or iPhone one-tap (US Toll):  +16465588656,,999936723# or
-+14086380968,,999936723#
+Or iPhone one-tap :
+US: +16699006833,,6690638389# or +16465588656,,6690638389# 
 
 Or Telephone:
-    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
-    +1 855 880 1246 (US Toll Free)
-    +1 877 369 0926 (US Toll Free)
-    Meeting ID: 999 936 723
-    International numbers available:
-https://zoom.us/zoomconference?m=LAcSq7c1MarVhxUbyYwATEGM_QvcVUy3
+Dial: 
+US: +1 669 900 6833 (US Toll) or +1 646 558 8656 (US Toll)
+or +1 877 369 0926 (Toll Free) or +1 855 880 1246 (Toll Free)
 
-NOTE: Please use *6 to mute/un-mute your phone during the call.
+Meeting ID: 669 063 8389
 
+International numbers available: https://zoom.us/zoomconference?m=LwLRnveqlcTdP6tRlmBLajV8g06ubSq5
 
 ## Meeting Minutes (or Recordings)
 
