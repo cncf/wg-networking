@@ -85,3 +85,4 @@ International numbers available: https://zoom.us/zoomconference?m=LwLRnveqlcTdP6
 * July 3rd, 2018 - Cancelled
 * July 17th, 2018 at 11am CDT - Agenda: Network Policy and Service Mesh Discussion
 * July 31st, 2-18 @ 11am CDT - Agenda: IPv6, Service Chaining, Network Services (SLB, DNS)
+* Sept 11th, @ 11am CDT - Agenda: Istio Overview
