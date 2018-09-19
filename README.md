@@ -28,6 +28,7 @@ See this [google doc](https://docs.google.com/document/d/15uuifCseiyUk5kPfnX5Cdj
 * Thomas Graf (@tgraf__)
 * Jason Venner (@jvmirdel)
 * Doug Davis (@duglin)
+* Jun Du (@m1093782566)
 
 ## Outcomes
 
