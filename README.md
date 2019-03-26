@@ -87,4 +87,4 @@ International numbers available: https://zoom.us/zoomconference?m=LwLRnveqlcTdP6
 * July 31st, 2-18 @ 11am CDT - Agenda: IPv6, Service Chaining, Network Services (SLB, DNS)
 * Sept 11th, @ 11am CDT - Agenda: Istio Overview
 * January 14th, @11am CST - Agenda: Workgroup Planning for 2019
-* March 12th, 2019 at 11am CST - Agenda: Overview and demo of [Meshery](https://layer5.io/meshery) 
+* March 26th, 2019 at 11am CST - Agenda: Overview and demo of [Meshery](https://layer5.io/meshery) 
